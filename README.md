@@ -1,0 +1,2 @@
+# proto_to_any_template
+protoからいろいろ生み出す用のテンプレート
