@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package appname.api.v1;
+package output.api.v1;
 
 import "google/protobuf/empty.proto";
 import "third_party/google/api/annotations.proto";
